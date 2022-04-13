@@ -1,0 +1,108 @@
+.lft-content{
+    margin-left: 152px;
+    margin-top: 163px;
+    height: 94px;
+    width: 398px;
+    background-color: #C4C4C4;
+    border-radius: 5px;
+    display: inline-block;
+    border-radius: 10px 10px 0px 0px;
+    text-align: center;
+
+    position: relative;
+    
+    
+}
+.sec-lft, .tr-lft{
+    margin-left: 152px;
+    margin-top: 62px;
+    height: 94px;
+    width: 398px;
+    background-color: #C4C4C4;
+    border-radius: 5px;
+    display: inline-block;
+    text-align: center;
+    border-radius: 10px;
+}
+.sec-rgt, .tr-rgt{
+    margin-left: 54px;
+    margin-top: 62px;
+    height: 94px;
+    width: 398px;
+    background-color: #C4C4C4;
+    border-radius: 5px;
+    display: inline-block;
+    text-align: center;
+    border-radius: 10px;
+}
+
+p{
+    /* position: absolute;    */
+    margin-top: 30px;   
+    font-size: 30px;
+    /* margin-left: 130px; */
+}
+
+.lft-sub{
+    width: 398px;
+    height: 42px;
+    background-color: #817D7D;
+    margin-top: 0;
+    margin-left: 152px;
+    position: relative;
+    text-align: center;
+    vertical-align: middle;
+}
+.lft-content:hover, .sec-rgt:hover, .tr-rgt:hover,.sec-lft:hover,.tr-lft:hover{
+    border: 2px solid #42ECF6;
+    
+}
+.rgt-content{
+    margin-left: 54px;
+    height: 94px;
+    width: 398px;
+    background-color: #C4C4C4;
+    border-radius: 10px;
+    display: inline-block;
+    text-align: center;
+}
+.rgt-content:hover{
+    border: 2px solid #42ECF6;
+    border-radius: 10px;
+}
+.vertical{
+   
+    background-color:#C4C4C4 ;
+}
+
+.footer{
+    width: 850px;
+    height: 77px;
+    background-color: #42ECF6;
+    margin-left: 152px;
+    margin-top: 52px;
+    border-radius: 10px;
+    text-align: center;
+    font-weight: 500;
+    font-size: 30px;
+    vertical-align: middle;
+    
+}
+.footer-txt{
+    margin-top: 20px;
+    
+}
+.rgt-sub-text{    
+    margin-left: 180px;    
+}
+.bg{
+    background-color: grey;
+    width: 500px;
+    height: 100px;
+    text-align: center;
+    vertical-align: middle;
+}
+h5{
+    text-align: center;
+    
+}
